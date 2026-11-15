@@ -1,0 +1,90 @@
+{
+  "checked_at": "2026-11-15T11:55:02.452561+05:00",
+  "parameter_id": 1,
+  "candidates": [
+    {
+      "id": 1894633,
+      "name": "Karachi, Pakistan",
+      "last_station_reported": {
+        "utc": "2024-02-28T12:42:56Z",
+        "local": "2024-02-28T17:42:56+05:00"
+      },
+      "distance_m": 7976.27316377,
+      "pm10_sensors": [
+        {
+          "id": 7466369,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3089895,
+      "name": "Soomra Society, Scheme 33, Karachi",
+      "last_station_reported": {
+        "utc": "2024-10-25T16:00:00Z",
+        "local": "2024-10-25T21:00:00+05:00"
+      },
+      "distance_m": 19664.33775384,
+      "pm10_sensors": [
+        {
+          "id": 10815168,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3182341,
+      "name": "Soomra Society, Scheme 33, Karachi",
+      "last_station_reported": {
+        "utc": "2024-10-28T05:00:00Z",
+        "local": "2024-10-28T10:00:00+05:00"
+      },
+      "distance_m": 19664.33775384,
+      "pm10_sensors": [
+        {
+          "id": 11077538,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3213801,
+      "name": "Soomra Society, Scheme 33, Karachi",
+      "last_station_reported": {
+        "utc": "2024-11-07T13:00:00Z",
+        "local": "2024-11-07T18:00:00+05:00"
+      },
+      "distance_m": 19664.33775384,
+      "pm10_sensors": [
+        {
+          "id": 11157401,
+          "name": "pm10 \u00b5g/m\u00b3",
+          "parameter": {
+            "id": 1,
+            "name": "pm10",
+            "units": "\u00b5g/m\u00b3",
+            "displayName": "PM10"
+          }
+        }
+      ]
+    }
+  ]
+}

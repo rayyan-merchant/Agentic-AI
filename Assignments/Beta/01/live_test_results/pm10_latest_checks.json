@@ -1,0 +1,503 @@
+{
+  "checked_at": "2026-11-15T11:55:42.097239+05:00",
+  "checks": [
+    {
+      "candidate": {
+        "id": 1894633,
+        "name": "Karachi, Pakistan",
+        "last_station_reported": {
+          "utc": "2024-02-28T12:42:56Z",
+          "local": "2024-02-28T17:42:56+05:00"
+        },
+        "distance_m": 7976.27316377,
+        "pm10_sensors": [
+          {
+            "id": 7466369,
+            "name": "pm10 \u00b5g/m\u00b3",
+            "parameter": {
+              "id": 1,
+              "name": "pm10",
+              "units": "\u00b5g/m\u00b3",
+              "displayName": "PM10"
+            }
+          }
+        ]
+      },
+      "source": "https://api.openaq.org/v3/locations/1894633/latest",
+      "status": 200,
+      "body": {
+        "meta": {
+          "name": "openaq-api",
+          "website": "/",
+          "page": 1,
+          "limit": 100,
+          "found": 5
+        },
+        "results": [
+          {
+            "datetime": {
+              "utc": "2024-02-28T12:42:56Z",
+              "local": "2024-02-28T17:42:56+05:00"
+            },
+            "value": 49.84,
+            "coordinates": {
+              "latitude": 24.811053632574033,
+              "longitude": 67.05825434267292
+            },
+            "sensorsId": 7466369,
+            "locationsId": 1894633
+          },
+          {
+            "datetime": {
+              "utc": "2024-01-19T14:50:42Z",
+              "local": "2024-01-19T19:50:42+05:00"
+            },
+            "value": 23.49,
+            "coordinates": {
+              "latitude": 24.811053632574033,
+              "longitude": 67.05825434267292
+            },
+            "sensorsId": 7466372,
+            "locationsId": 1894633
+          },
+          {
+            "datetime": {
+              "utc": "2024-02-28T12:42:56Z",
+              "local": "2024-02-28T17:42:56+05:00"
+            },
+            "value": 24.71,
+            "coordinates": {
+              "latitude": 24.811053632574033,
+              "longitude": 67.05825434267292
+            },
+            "sensorsId": 7466370,
+            "locationsId": 1894633
+          },
+          {
+            "datetime": {
+              "utc": "2024-02-28T12:42:56Z",
+              "local": "2024-02-28T17:42:56+05:00"
+            },
+            "value": 25.41,
+            "coordinates": {
+              "latitude": 24.811053632574033,
+              "longitude": 67.05825434267292
+            },
+            "sensorsId": 7466368,
+            "locationsId": 1894633
+          },
+          {
+            "datetime": {
+              "utc": "2024-02-28T12:42:56Z",
+              "local": "2024-02-28T17:42:56+05:00"
+            },
+            "value": 25.21,
+            "coordinates": {
+              "latitude": 24.811053632574033,
+              "longitude": 67.05825434267292
+            },
+            "sensorsId": 7466371,
+            "locationsId": 1894633
+          }
+        ]
+      },
+      "pm10_latest": [
+        {
+          "datetime": {
+            "utc": "2024-02-28T12:42:56Z",
+            "local": "2024-02-28T17:42:56+05:00"
+          },
+          "value": 49.84,
+          "coordinates": {
+            "latitude": 24.811053632574033,
+            "longitude": 67.05825434267292
+          },
+          "sensorsId": 7466369,
+          "locationsId": 1894633,
+          "units": "\u00b5g/m\u00b3"
+        }
+      ],
+      "fresh_pm10": false
+    },
+    {
+      "candidate": {
+        "id": 3089895,
+        "name": "Soomra Society, Scheme 33, Karachi",
+        "last_station_reported": {
+          "utc": "2024-10-25T16:00:00Z",
+          "local": "2024-10-25T21:00:00+05:00"
+        },
+        "distance_m": 19664.33775384,
+        "pm10_sensors": [
+          {
+            "id": 10815168,
+            "name": "pm10 \u00b5g/m\u00b3",
+            "parameter": {
+              "id": 1,
+              "name": "pm10",
+              "units": "\u00b5g/m\u00b3",
+              "displayName": "PM10"
+            }
+          }
+        ]
+      },
+      "source": "https://api.openaq.org/v3/locations/3089895/latest",
+      "status": 200,
+      "body": {
+        "meta": {
+          "name": "openaq-api",
+          "website": "/",
+          "page": 1,
+          "limit": 100,
+          "found": 6
+        },
+        "results": [
+          {
+            "datetime": {
+              "utc": "2024-10-25T16:00:00Z",
+              "local": "2024-10-25T21:00:00+05:00"
+            },
+            "value": 52.134921073913574,
+            "coordinates": {
+              "latitude": 24.960929,
+              "longitude": 67.161759
+            },
+            "sensorsId": 10815113,
+            "locationsId": 3089895
+          },
+          {
+            "datetime": {
+              "utc": "2024-10-25T16:00:00Z",
+              "local": "2024-10-25T21:00:00+05:00"
+            },
+            "value": 33.32668670018514,
+            "coordinates": {
+              "latitude": 24.960929,
+              "longitude": 67.161759
+            },
+            "sensorsId": 10815128,
+            "locationsId": 3089895
+          },
+          {
+            "datetime": {
+              "utc": "2024-10-25T16:00:00Z",
+              "local": "2024-10-25T21:00:00+05:00"
+            },
+            "value": 31.552678267161053,
+            "coordinates": {
+              "latitude": 24.960929,
+              "longitude": 67.161759
+            },
+            "sensorsId": 10815144,
+            "locationsId": 3089895
+          },
+          {
+            "datetime": {
+              "utc": "2024-10-25T16:00:00Z",
+              "local": "2024-10-25T21:00:00+05:00"
+            },
+            "value": 37.06383959452311,
+            "coordinates": {
+              "latitude": 24.960929,
+              "longitude": 67.161759
+            },
+            "sensorsId": 10815160,
+            "locationsId": 3089895
+          },
+          {
+            "datetime": {
+              "utc": "2024-10-25T16:00:00Z",
+              "local": "2024-10-25T21:00:00+05:00"
+            },
+            "value": 62.44032700856527,
+            "coordinates": {
+              "latitude": 24.960929,
+              "longitude": 67.161759
+            },
+            "sensorsId": 10815168,
+            "locationsId": 3089895
+          },
+          {
+            "datetime": {
+              "utc": "2024-10-25T16:00:00Z",
+              "local": "2024-10-25T21:00:00+05:00"
+            },
+            "value": 2535.2807413736978,
+            "coordinates": {
+              "latitude": 24.960929,
+              "longitude": 67.161759
+            },
+            "sensorsId": 10815176,
+            "locationsId": 3089895
+          }
+        ]
+      },
+      "pm10_latest": [
+        {
+          "datetime": {
+            "utc": "2024-10-25T16:00:00Z",
+            "local": "2024-10-25T21:00:00+05:00"
+          },
+          "value": 62.44032700856527,
+          "coordinates": {
+            "latitude": 24.960929,
+            "longitude": 67.161759
+          },
+          "sensorsId": 10815168,
+          "locationsId": 3089895,
+          "units": "\u00b5g/m\u00b3"
+        }
+      ],
+      "fresh_pm10": false
+    },
+    {
+      "candidate": {
+        "id": 3182341,
+        "name": "Soomra Society, Scheme 33, Karachi",
+        "last_station_reported": {
+          "utc": "2024-10-28T05:00:00Z",
+          "local": "2024-10-28T10:00:00+05:00"
+        },
+        "distance_m": 19664.33775384,
+        "pm10_sensors": [
+          {
+            "id": 11077538,
+            "name": "pm10 \u00b5g/m\u00b3",
+            "parameter": {
+              "id": 1,
+              "name": "pm10",
+              "units": "\u00b5g/m\u00b3",
+              "displayName": "PM10"
+            }
+          }
+        ]
+      },
+      "source": "https://api.openaq.org/v3/locations/3182341/latest",
+      "status": 200,
+      "body": {
+        "meta": {
+          "name": "openaq-api",
+          "website": "/",
+          "page": 1,
+          "limit": 100,
+          "found": 6
+        },
+        "results": [
+          {
+            "datetime": {
+              "utc": "2024-10-28T05:00:00Z",
+              "local": "2024-10-28T10:00:00+05:00"
+            },
+            "value": 38.750000953674316,
+            "coordinates": {
+              "latitude": 24.960929,
+              "longitude": 67.161759
+            },
+            "sensorsId": 11077523,
+            "locationsId": 3182341
+          },
+          {
+            "datetime": {
+              "utc": "2024-10-28T05:00:00Z",
+              "local": "2024-10-28T10:00:00+05:00"
+            },
+            "value": 59.5,
+            "coordinates": {
+              "latitude": 24.960929,
+              "longitude": 67.161759
+            },
+            "sensorsId": 11077530,
+            "locationsId": 3182341
+          },
+          {
+            "datetime": {
+              "utc": "2024-10-28T05:00:00Z",
+              "local": "2024-10-28T10:00:00+05:00"
+            },
+            "value": 70.46666653951009,
+            "coordinates": {
+              "latitude": 24.960929,
+              "longitude": 67.161759
+            },
+            "sensorsId": 11077538,
+            "locationsId": 3182341
+          },
+          {
+            "datetime": {
+              "utc": "2024-10-28T05:00:00Z",
+              "local": "2024-10-28T10:00:00+05:00"
+            },
+            "value": 47.61666679382324,
+            "coordinates": {
+              "latitude": 24.960929,
+              "longitude": 67.161759
+            },
+            "sensorsId": 11077541,
+            "locationsId": 3182341
+          },
+          {
+            "datetime": {
+              "utc": "2024-10-28T05:00:00Z",
+              "local": "2024-10-28T10:00:00+05:00"
+            },
+            "value": 32.300000031789146,
+            "coordinates": {
+              "latitude": 24.960929,
+              "longitude": 67.161759
+            },
+            "sensorsId": 11077549,
+            "locationsId": 3182341
+          },
+          {
+            "datetime": {
+              "utc": "2024-10-28T05:00:00Z",
+              "local": "2024-10-28T10:00:00+05:00"
+            },
+            "value": 3082.1499837239585,
+            "coordinates": {
+              "latitude": 24.960929,
+              "longitude": 67.161759
+            },
+            "sensorsId": 11077552,
+            "locationsId": 3182341
+          }
+        ]
+      },
+      "pm10_latest": [
+        {
+          "datetime": {
+            "utc": "2024-10-28T05:00:00Z",
+            "local": "2024-10-28T10:00:00+05:00"
+          },
+          "value": 70.46666653951009,
+          "coordinates": {
+            "latitude": 24.960929,
+            "longitude": 67.161759
+          },
+          "sensorsId": 11077538,
+          "locationsId": 3182341,
+          "units": "\u00b5g/m\u00b3"
+        }
+      ],
+      "fresh_pm10": false
+    },
+    {
+      "candidate": {
+        "id": 3213801,
+        "name": "Soomra Society, Scheme 33, Karachi",
+        "last_station_reported": {
+          "utc": "2024-11-07T13:00:00Z",
+          "local": "2024-11-07T18:00:00+05:00"
+        },
+        "distance_m": 19664.33775384,
+        "pm10_sensors": [
+          {
+            "id": 11157401,
+            "name": "pm10 \u00b5g/m\u00b3",
+            "parameter": {
+              "id": 1,
+              "name": "pm10",
+              "units": "\u00b5g/m\u00b3",
+              "displayName": "PM10"
+            }
+          }
+        ]
+      },
+      "source": "https://api.openaq.org/v3/locations/3213801/latest",
+      "status": 200,
+      "body": {
+        "meta": {
+          "name": "openaq-api",
+          "website": "/",
+          "page": 1,
+          "limit": 100,
+          "found": 5
+        },
+        "results": [
+          {
+            "datetime": {
+              "utc": "2024-11-07T13:00:00Z",
+              "local": "2024-11-07T18:00:00+05:00"
+            },
+            "value": 31.045834223429363,
+            "coordinates": {
+              "latitude": 24.960929,
+              "longitude": 67.161759
+            },
+            "sensorsId": 11157382,
+            "locationsId": 3213801
+          },
+          {
+            "datetime": {
+              "utc": "2024-11-07T13:00:00Z",
+              "local": "2024-11-07T18:00:00+05:00"
+            },
+            "value": 20.041666666666668,
+            "coordinates": {
+              "latitude": 24.960929,
+              "longitude": 67.161759
+            },
+            "sensorsId": 11157384,
+            "locationsId": 3213801
+          },
+          {
+            "datetime": {
+              "utc": "2024-11-07T13:00:00Z",
+              "local": "2024-11-07T18:00:00+05:00"
+            },
+            "value": 28.46666653951009,
+            "coordinates": {
+              "latitude": 24.960929,
+              "longitude": 67.161759
+            },
+            "sensorsId": 11157387,
+            "locationsId": 3213801
+          },
+          {
+            "datetime": {
+              "utc": "2024-11-07T13:00:00Z",
+              "local": "2024-11-07T18:00:00+05:00"
+            },
+            "value": 35.97500038146973,
+            "coordinates": {
+              "latitude": 24.960929,
+              "longitude": 67.161759
+            },
+            "sensorsId": 11157401,
+            "locationsId": 3213801
+          },
+          {
+            "datetime": {
+              "utc": "2024-11-07T13:00:00Z",
+              "local": "2024-11-07T18:00:00+05:00"
+            },
+            "value": 43.3041664759318,
+            "coordinates": {
+              "latitude": 24.960929,
+              "longitude": 67.161759
+            },
+            "sensorsId": 11157400,
+            "locationsId": 3213801
+          }
+        ]
+      },
+      "pm10_latest": [
+        {
+          "datetime": {
+            "utc": "2024-11-07T13:00:00Z",
+            "local": "2024-11-07T18:00:00+05:00"
+          },
+          "value": 35.97500038146973,
+          "coordinates": {
+            "latitude": 24.960929,
+            "longitude": 67.161759
+          },
+          "sensorsId": 11157401,
+          "locationsId": 3213801,
+          "units": "\u00b5g/m\u00b3"
+        }
+      ],
+      "fresh_pm10": false
+    }
+  ]
+}
