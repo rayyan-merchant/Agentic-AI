@@ -1,0 +1,35 @@
+{
+  "sha256_prefix": "ff47a42700f8fe7f",
+  "config": {
+    "student_id": "23K-0073",
+    "model": "Qwen/Qwen2.5-1.5B-Instruct",
+    "dataset": "korotkov/glaive-function-calling-v2-parsed",
+    "dataset_split": "train",
+    "seed": 73,
+    "n_total": 2000,
+    "n_function_call": 1700,
+    "n_no_call": 300,
+    "n_train": 1600,
+    "n_validation": 200,
+    "n_test": 200,
+    "max_sequence_tokens": 640,
+    "max_prompt_tokens": 535,
+    "max_target_tokens": 100,
+    "generation_max_new_tokens": 128,
+    "epochs": 2,
+    "microbatch": 1,
+    "grad_accum": 8,
+    "learning_rate": 0.0002,
+    "warmup_ratio": 0.05,
+    "weight_decay": 0.0,
+    "lora_alpha": 16,
+    "dropout": 0.05,
+    "target_modules": [
+      "q_proj",
+      "k_proj",
+      "v_proj",
+      "o_proj"
+    ],
+    "generation_batch": 4
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "source": "korotkov/glaive-function-calling-v2-parsed",
+  "source_partition": "train",
+  "seed": 73,
+  "protocol_hash": "ff47a42700f8fe7f",
+  "n_source_rows_scanned": 6932,
+  "split_sizes": {
+    "test": 200,
+    "validation": 200,
+    "train": 1600
+  },
+  "class_counts": {
+    "test": {
+      "call": 170,
+      "no_call": 30
+    },
+    "validation": {
+      "no_call": 30,
+      "call": 170
+    },
+    "train": {
+      "call": 1360,
+      "no_call": 240
+    }
+  },
+  "data_sha256": "c66c50c9cb3e54d5d09a1c838584be4fa7b1560790c2eec3b05438d831d1b683",
+  "selection_policy": "first-user next-action; no truncation; deduplicated; 85/15 stratified"
+}

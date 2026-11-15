@@ -1,0 +1,19 @@
+{
+  "run_id": "qlora_r32",
+  "method": "qlora",
+  "rank": 32,
+  "ada_init_rank": null,
+  "protocol_hash": "ff47a42700f8fe7f",
+  "data_sha256": "c66c50c9cb3e54d5d09a1c838584be4fa7b1560790c2eec3b05438d831d1b683",
+  "base_parameters": 1543714304,
+  "trainable_parameters": 8716288,
+  "trainable_pct_whole": 0.5614607213305933,
+  "peak_train_memory_gib": 2.9852099418640137,
+  "training_minutes": 27.701687611716686,
+  "train_loss": 0.04734795197844505,
+  "trained_steps": 400,
+  "train_complete": true,
+  "trained_at_utc": "2026-11-15T09:16:59.233958+00:00",
+  "adapter_folder": "/kaggle/working/Assignment_Beta_Q2_23K-0073/adapters/qlora_r32",
+  "precision": "NF4 + torch.float16"
+}

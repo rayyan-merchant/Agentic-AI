@@ -1,0 +1,20 @@
+{
+  "n": 200,
+  "json_valid_count": 198,
+  "schema_valid_count": 198,
+  "tool_correct_count": 182,
+  "full_match_count": 156,
+  "json_valid_pct": 99.0,
+  "schema_valid_pct": 99.0,
+  "tool_accuracy_pct": 91.0,
+  "full_match_pct": 78.0,
+  "inference_seconds": 76.322,
+  "run_id": "baseline",
+  "method": "base",
+  "rank": 0,
+  "split": "validation",
+  "protocol_hash": "ff47a42700f8fe7f",
+  "data_sha256": "c66c50c9cb3e54d5d09a1c838584be4fa7b1560790c2eec3b05438d831d1b683",
+  "peak_inference_memory_gib": 3.015018939971924,
+  "timestamp_utc": "2026-11-15T05:59:01.062198+00:00"
+}

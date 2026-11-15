@@ -1,0 +1,19 @@
+{
+  "run_id": "dora_r8",
+  "method": "dora",
+  "rank": 8,
+  "ada_init_rank": null,
+  "protocol_hash": "ff47a42700f8fe7f",
+  "data_sha256": "c66c50c9cb3e54d5d09a1c838584be4fa7b1560790c2eec3b05438d831d1b683",
+  "base_parameters": 1543714304,
+  "trainable_parameters": 2279424,
+  "trainable_pct_whole": 0.1474407016481764,
+  "peak_train_memory_gib": 3.791604518890381,
+  "training_minutes": 28.42516152849999,
+  "train_loss": 0.05097693227231503,
+  "trained_steps": 400,
+  "train_complete": true,
+  "trained_at_utc": "2026-11-15T07:17:28.685662+00:00",
+  "adapter_folder": "/kaggle/working/Assignment_Beta_Q2_23K-0073/adapters/dora_r8",
+  "precision": "torch.float16"
+}
